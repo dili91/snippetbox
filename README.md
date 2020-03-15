@@ -1,7 +1,6 @@
 # Snippetbox
 
-A sample web application written in go.
-
+A sample web application written in Go.
 ### Running the application
 
 ```go run cmd/web/*```
